@@ -20,8 +20,12 @@ python3 -m http.server 8000
 ├── assets/
 │   ├── css/style.css     # 样式
 │   └── js/main.js        # 交互脚本
-└── 李飞飞-个人简历.pdf    # 简历原件（信息来源）
+├── 李飞飞-个人简历.pdf    # 简历原件（信息来源）
+├── 项目报告/             # 本地参考资料（客户项目报告，已被 .gitignore 排除）
+└── paper/               # 本地参考资料（论文 PDF，已被 .gitignore 排除）
 ```
+
+> 注：`项目报告/`（概普客户项目报告，含涉密信息）与 `paper/`（论文 PDF，版权材料）仅用于本地提取网页展示信息，通过 `.gitignore` 排除，不会发布到 GitHub 仓库。
 
 ## 发布到 GitHub Pages
 
