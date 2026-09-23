@@ -2,6 +2,8 @@
 
 个人网页介绍，展示教育背景、工作经历、科研成果与专业技能。基于纯 HTML/CSS/JS 构建，无外部依赖，可直接由 GitHub Pages 托管。
 
+> 📄 完整开发与发布过程见 [`项目总结.md`](项目总结.md)（含网络问题解决方案与复现步骤）
+
 ## 在线访问
 
 - GitHub Pages: https://sugarfa.github.io/feifeili/
